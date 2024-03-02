@@ -1,4 +1,6 @@
+##
 - 👋 Hi, I’m Nick
+###
 - 👀 I am an IT Project Manager
 - 🌱 I am currently learning Vue
 - 📫 I can be reached at n.sprague18@gmail.com
